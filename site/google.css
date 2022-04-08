@@ -6,6 +6,11 @@
     padding-top: 112px;
     padding-bottom: 20px;
   }
+
+  .google-image {
+    height: auto;
+    width: auto;
+  }
   
   .bar {
     margin:0 auto;
